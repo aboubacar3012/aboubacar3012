@@ -1,6 +1,3 @@
-### Hi there 👋
-# Hey there :wave:
-
 <img src="https://media-exp2.licdn.com/dms/image/C4E16AQGfgZmMgTG9wg/profile-displaybackgroundimage-shrink_350_1400/0/1654723024683?e=1660176000&v=beta&t=l4nHsX4_OCRwqqm9-tT8EF3wJ-CrLtC5msxiR70P69k" alt="banner">
 
 <p align="center"> 
@@ -16,9 +13,6 @@ I ocassionally blog and tweet about android. Also open sourced few android relat
 
 
 ## Things I am passionate about
-
-- Android :robot:
-- Open source :octocat:
 
 ## Get in touch :coffee:
 
