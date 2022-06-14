@@ -24,7 +24,6 @@ Passionné par le web et les nouvelles technologies,je souhaite à terme devenir
 ✅Apprenant rapide 
 ✅motivé
 
-<!-- Technos -->
 <h1 align="center">Technos 🛠</h1>
 <p align="center">
 <h3 align="center">Basiques</h3>
@@ -118,9 +117,9 @@ Passionné par le web et les nouvelles technologies,je souhaite à terme devenir
 ![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat&logo=laravel&logoColor=ffffff&labelColor=FF2D20)
 
 
-<!-- ✅  **GitHub Extra Pins**
+ ✅  **GitHub Extra Pins**
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ahmad-sawalqeh&repo=my_resume)](https://github.com/ahmad-sawalqeh/my_resume) -->
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ahmad-sawalqeh&repo=my_resume)](https://github.com/ahmad-sawalqeh/my_resume) 
 
 </br>
 <p style="display: flex; justify-contect: space-between;">
