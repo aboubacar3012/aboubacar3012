@@ -1,28 +1,26 @@
-<!-- 📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/Ahmad-Sawalqeh?label=Follow%20Me&style=social)](https://github.com/Ahmad-Sawalqeh)
-<br>
-<br>
+<!-- 📝 ***Feel free to contact me. I am always here ...*** -->
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Ahmad%20Sawalqeh-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/ahmad-alsawalqeh/)
 [![Mail](https://img.shields.io/badge/Hotmail-sawalqa_jo@hotmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:sawalqa_jo@hotmail.com)
-<br>
 [![Codepen](https://img.shields.io/badge/Codepen-Ahmad%20Sawalqeh-gray?logo=codepen&logoColor=white&labelColor=black)](https://codepen.io/AhmadSawalqeh)
 [![Codesandbox](https://img.shields.io/badge/Codesandbox-Ahmad%20Sawalqeh-gray?logo=codesandbox&logoColor=white&labelColor=black)](https://codesandbox.io/u/Ahmad-Sawalqeh)
 [![HackerRank](https://img.shields.io/badge/HackerRank-sawalqa_jo-brightgreen?logo=HackerRank&logoColor=Green&labelColor=black)](https://www.hackerrank.com/sawalqa_jo)
-[![Codepen](https://img.shields.io/badge/Codewars-Ahmad%20Sawalqeh-maroon?logo=codewars&logoColor=maroon&labelColor=black)](https://www.codewars.com/users/Ahmad-Sawalqeh)
+[![Codewars](https://img.shields.io/badge/Codewars-Ahmad%20Sawalqeh-maroon?logo=codewars&logoColor=maroon&labelColor=black)](https://www.codewars.com/users/Ahmad-Sawalqeh)
 
 <h2 align='center'><samp><strong>Hi there 👋, I am Ahmad Sawalqeh</strong></samp></h2>
 <h3 align='center'><strong><a href="https://ahmad-sawalqeh.github.io/my_resume/" target="_blank">Portfolio🌐</a></strong></h3>
 <p align='center'>Software developer | Full-stack JavaScript | Node/React developer | Web developer</p>
 
-<img src="https://media-exp2.licdn.com/dms/image/C4E16AQGfgZmMgTG9wg/profile-displaybackgroundimage-shrink_350_1400/0/1654723024683?e=1660176000&v=beta&t=l4nHsX4_OCRwqqm9-tT8EF3wJ-CrLtC5msxiR70P69k" alt="banner">
-
+<img src="https://media-exp2.licdn.com/dms/image/C4E16AQGfgZmMgTG9wg/profile-displaybackgroundimage-shrink_350_1400/0/1654723024683?e=1660176000&v=beta&t=l4nHsX4_OCRwqqm9-tT8EF3wJ-CrLtC5msxiR70P69k" />
 
 ## A props
-Passionné par le web et les nouvelles technologies,je souhaite à terme devenir développeur web fullstack. 
-✅Rigoureux 
-✅Organisé 
-✅Esprit d’équipe 
-✅Apprenant rapide 
-✅motivé
+Passionné par le web et les nouvelles technologies, je souhaite à terme devenir développeur web fullstack. 
+✅ Rigoureux 
+✅ Organisé 
+✅ Esprit d’équipe 
+✅ Apprenant rapide 
+✅ motivé
 
 <h1 align="center">Technos 🛠</h1>
 <p align="center">
@@ -60,7 +58,6 @@ Passionné par le web et les nouvelles technologies,je souhaite à terme devenir
     <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="50" height="50"/> </a>
 </p>
 
-
 💻 **Languages and Tools:** 🛠️<br>
 
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)
@@ -87,27 +84,22 @@ Passionné par le web et les nouvelles technologies,je souhaite à terme devenir
 ![ESlint](https://img.shields.io/badge/-ESlint-000000?style=flat&logo=ESlint&labelColor=4B32C3)
 ![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows&logoColor=ffffff&labelColor=0078D6)
 
-
 🧐 **Knowledge of:**<br>
 
 `Responsive web design`, `DOM`, `Styled Components`, `React Router`, `Enzyme`, `AXIOS`, `3rd Party API`, `Object-Oriented Programming`, `data structures and algorithms`.
 
-
 🌍 **Deployment platforms:**<br>
 
-<img alt="Github Pages" width="20px" height="20px" src="https://techcrunch.com/wp-content/uploads/2010/07/github-logo.png" />![Github Pages](https://img.shields.io/badge/-Github%20Pages-000000?style=flat&logo=github-pages) ![Heroku](https://img.shields.io/badge/-Heroku-000000?style=flat&logo=heroku&labelColor=430098) ![Netlify](https://img.shields.io/badge/-Netlify-000000?style=flat&logo=netlify&labelColor=000000)
-
+![Github Pages](https://img.shields.io/badge/-Github%20Pages-000000?style=flat&logo=github-pages)
 
 🚩 **Highlights:** <br>
-&nbsp;<img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' style="margin-top: 10px;" width="20px" height="20px">&nbsp;&nbsp;&nbsp;<span>Arctic Code Vault Contributor</span>
-
+<img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' style="margin-top: 10px;" width="20px" height="20px"> Arctic Code Vault Contributor
 
 📚 **Working on:** <br>
 
 ![Github Actions](https://img.shields.io/badge/-Github%20Actions-000000?style=flat&logo=github-actions&logoColor=2088FF&labelColor=ffffff)
 ![Json Web Tokens](https://img.shields.io/badge/-Json%20Web%20Tokens-000000?style=flat&logo=json-web-tokens&logoColor=ffffff&labelColor=000000)
 ![Material-UI](https://img.shields.io/badge/-Material%20UI-000000?style=flat&logo=Material%20UI&logoColor=ffffff&labelColor=0081CB)
-
 
 🤓 **Interested:** <br>
 
@@ -116,14 +108,12 @@ Passionné par le web et les nouvelles technologies,je souhaite à terme devenir
 ![WordPress](https://img.shields.io/badge/-WordPress-000000?style=flat&logo=wordpress&labelColor=21759B)
 ![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat&logo=laravel&logoColor=ffffff&labelColor=FF2D20)
 
+✅ **GitHub Extra Pins**
 
- ✅  **GitHub Extra Pins**
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ahmad-sawalqeh&repo=my_resume)](https://github.com/ahmad-sawalqeh/my_resume) 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ahmad-sawalqeh&repo=my_resume)](https://github.com/ahmad-sawalqeh/my_resume)
 
 </br>
-<p style="display: flex; justify-contect: space-between;">
+<p style="display: flex; justify-content: space-between;">
 <img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="330px" height="240px" src="https://github-contribution-stats.vercel.app/api/?username=Ahmad-Sawalqeh" />
 <img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="320px" height="240px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
 </p>
- -->
