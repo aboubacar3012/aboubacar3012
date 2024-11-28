@@ -1,31 +1,20 @@
-<!-- 📝 ***Feel free to contact me. I am always here ...*** -->
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-Ahmad%20Sawalqeh-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/ahmad-alsawalqeh/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-Ahmad%20Sawalqeh-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/adiallo3012/)
 
-[![Mail](https://img.shields.io/badge/Hotmail-sawalqa_jo@hotmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:sawalqa_jo@hotmail.com)
-
-[![Codepen](https://img.shields.io/badge/Codepen-Ahmad%20Sawalqeh-gray?logo=codepen&logoColor=white&labelColor=black)](https://codepen.io/AhmadSawalqeh)
-
-[![Codesandbox](https://img.shields.io/badge/Codesandbox-Ahmad%20Sawalqeh-gray?logo=codesandbox&logoColor=white&labelColor=black)](https://codesandbox.io/u/Ahmad-Sawalqeh)
-
-[![HackerRank](https://img.shields.io/badge/HackerRank-sawalqa_jo-brightgreen?logo=HackerRank&logoColor=Green&labelColor=black)](https://www.hackerrank.com/sawalqa_jo)
-
-[![Codewars](https://img.shields.io/badge/Codewars-Ahmad%20Sawalqeh-maroon?logo=codewars&logoColor=maroon&labelColor=black)](https://www.codewars.com/users/Ahmad-Sawalqeh)
-
-<h2 align='center'><samp><strong>Hi there 👋, I am Ahmad Sawalqeh</strong></samp></h2>
+<h2 align='center'><samp><strong>Bonjour 👋, je suis Ahmad Sawalqeh</strong></samp></h2>
 <h3 align='center'><strong><a href="https://ahmad-sawalqeh.github.io/my_resume/" target="_blank">Portfolio🌐</a></strong></h3>
-<p align='center'>Software developer | Full-stack JavaScript | Node/React developer | Web developer</p>
-
-<img src="https://media-exp2.licdn.com/dms/image/C4E16AQGfgZmMgTG9wg/profile-displaybackgroundimage-shrink_350_1400/0/1654723024683?e=1660176000&v=beta&t=l4nHsX4_OCRwqqm9-tT8EF3wJ-CrLtC5msxiR70P69k" />
+<p align='center'>Développeur logiciel | Développeur JavaScript full-stack | Développeur Node/React | Développeur web</p>
+<img src="https://media.licdn.com/dms/image/v2/D4E16AQGOw4VIB-Zaiw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1683841221444?e=1738195200&v=beta&t=H3LHWAqIjLdKoitSjDu-uJRzNPBFfQeMdKmteCr5kOk" />
 
 ## A props
-Passionné par le web et les nouvelles technologies, je souhaite à terme devenir développeur web fullstack. 
-✅ Rigoureux 
-✅ Organisé 
-✅ Esprit d’équipe 
-✅ Apprenant rapide 
-✅ motivé
+Animé par une passion pour le web et les nouvelles technologies, je suis actuellement développeur web et mobile full-stack. Avec une solide expérience sur des projets ambitieux et motivants, je travaille également en freelance pendant mon temps libre. Je suis en apprentissage constant et aspire à devenir lead developer à l'avenir.
+
+✅ Rigoureux
+✅ Organisé
+✅ Esprit d'équipe
+✅ Apprentissage rapide
+✅ Motivé
 
 <h1 align="center">Technos 🛠</h1>
 <p align="center">
