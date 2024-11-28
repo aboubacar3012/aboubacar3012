@@ -1,7 +1,7 @@
 <div style="display: flex; align-items: right; ">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
   <a href="https://www.linkedin.com/in/adiallo3012/">
-    <img src="https://img.shields.io/badge/LinkedIn-Ahmad%20Sawalqeh-blue?logo=LinkedIn&logoColor=blue&labelColor=black">
+    <img src="https://img.shields.io/badge/LinkedIn-Aboubacar%20Diallo-blue?logo=LinkedIn&logoColor=blue&labelColor=black">
   </a>
 </div>
 
