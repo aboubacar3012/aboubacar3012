@@ -1,6 +1,10 @@
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<div style="display: flex; align-items: right; ">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+  <a href="https://www.linkedin.com/in/adiallo3012/">
+    <img src="https://img.shields.io/badge/LinkedIn-Ahmad%20Sawalqeh-blue?logo=LinkedIn&logoColor=blue&labelColor=black">
+  </a>
+</div>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-Ahmad%20Sawalqeh-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/adiallo3012/)
 
 <h2 align='center'><samp><strong>Bonjour 👋, je suis Aboubacar Diallo</strong></samp></h2>
 <p align='center'>Développeur logiciel | Développeur JavaScript full-stack | Développeur Node/React | Développeur web</p>
