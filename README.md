@@ -2,12 +2,11 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Ahmad%20Sawalqeh-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/adiallo3012/)
 
-<h2 align='center'><samp><strong>Bonjour 👋, je suis Ahmad Sawalqeh</strong></samp></h2>
-<h3 align='center'><strong><a href="https://ahmad-sawalqeh.github.io/my_resume/" target="_blank">Portfolio🌐</a></strong></h3>
+<h2 align='center'><samp><strong>Bonjour 👋, je suis Aboubacar Diallo</strong></samp></h2>
 <p align='center'>Développeur logiciel | Développeur JavaScript full-stack | Développeur Node/React | Développeur web</p>
 <img src="https://media.licdn.com/dms/image/v2/D4E16AQGOw4VIB-Zaiw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1683841221444?e=1738195200&v=beta&t=H3LHWAqIjLdKoitSjDu-uJRzNPBFfQeMdKmteCr5kOk" />
 
-## A props
+## A propos
 Animé par une passion pour le web et les nouvelles technologies, je suis actuellement développeur web et mobile full-stack. Avec une solide expérience sur des projets ambitieux et motivants, je travaille également en freelance pendant mon temps libre. Je suis en apprentissage constant et aspire à devenir lead developer à l'avenir.
 
 ✅ Rigoureux
