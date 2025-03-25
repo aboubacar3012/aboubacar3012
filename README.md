@@ -81,4 +81,26 @@ Animé par une passion pour le web et les nouvelles technologies, je suis actuel
 ![ESlint](https://img.shields.io/badge/-ESlint-000000?style=flat&logo=ESlint&labelColor=4B32C3)
 ![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows&logoColor=ffffff&labelColor=0078D6)
 
+<!-- P4387 -->
+<p align='center'>🚀 Passionné par le développement web et mobile</p>
+<p align='center'>🌟 Toujours en quête de nouvelles technologies</p>
+<p align='center'>💡 Innovant et créatif</p>
 
+<!-- Pa744 -->
+<p align='center'>
+    <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a>
+    <a href="https://www.java.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/> </a>
+    <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="50" height="50"/> </a>
+</p>
+
+<!-- P1de6 -->
+<div style="display: flex; align-items: center; justify-content: center;">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="50">
+  <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="50">
+</div>
+
+<!-- P9e63 -->
+<h2 align='center'><samp><strong>Contactez-moi 📧</strong></samp></h2>
+<p align='center'>📫 Email: adiallo3012@gmail.com</p>
+<p align='center'>🔗 <a href="https://www.linkedin.com/in/adiallo3012/">LinkedIn</a></p>
+<p align='center'>🐦 <a href="https://twitter.com/adiallo3012">Twitter</a></p>
