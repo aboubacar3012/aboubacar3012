@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Profil Aboubacar Diallo</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+</head>
+
+<body class="bg-gray-950 text-white font-[Inter]">
+  <section class="flex flex-col items-center justify-center min-h-screen text-center px-4">
+    <div class="flex items-center space-x-4 animate-fade-in">
+      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40" alt="Waving hand" />
+      <a href="https://www.linkedin.com/in/adiallo3012/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-Aboubacar%20Diallo-blue?logo=LinkedIn&logoColor=white&labelColor=0a66c2" class="rounded-md shadow-lg">
+      </a>
+    </div>
+
+    <h1 class="text-4xl md:text-5xl font-extrabold mt-6 animate-fade-up">Bonjour 👋, je suis Aboubacar Diallo</h1>
+    <p class="text-lg md:text-xl text-gray-300 mt-3 animate-fade-up delay-200">Développeur Full-Stack JavaScript (React / Node) passionné par la tech et l'impact social</p>
+
+    <img src="https://media.licdn.com/dms/image/v2/D4E16AQGOw4VIB-Zaiw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1683841221444?e=1738195200&v=beta&t=H3LHWAqIjLdKoitSjDu-uJRzNPBFfQeMdKmteCr5kOk" class="rounded-xl mt-8 w-full max-w-4xl shadow-2xl" alt="Cover" />
+
+    <div class="mt-12 text-left w-full max-w-4xl animate-fade-in">
+      <h2 class="text-2xl font-bold border-b border-gray-700 pb-2 mb-4">À propos</h2>
+      <p class="text-gray-300 leading-relaxed">
+        Passionné par le web et les nouvelles technologies, je suis actuellement développeur web et mobile full-stack. J’ai travaillé sur plusieurs projets ambitieux, tout en continuant à apprendre constamment. Mon objectif est de devenir lead developer et accompagner des équipes dans des projets à fort impact.
+      </p>
+      <ul class="grid grid-cols-2 gap-2 mt-4 text-sm text-green-400">
+        <li>✅ Rigoureux</li>
+        <li>✅ Organisé</li>
+        <li>✅ Esprit d'équipe</li>
+        <li>✅ Apprentissage rapide</li>
+        <li>✅ Motivé</li>
+      </ul>
+    </div>
+
+    <div class="mt-16 w-full max-w-6xl animate-fade-up">
+      <h2 class="text-2xl font-bold border-b border-gray-700 pb-2 mb-6 text-center">Technologies 🛠️</h2>
+      <div class="grid grid-cols-3 md:grid-cols-6 gap-6 place-items-center text-sm text-center">
+        <div class="hover:scale-110 transition"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" /><p>JavaScript</p></div>
+        <div class="hover:scale-110 transition"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" /><p>TypeScript</p></div>
+        <div class="hover:scale-110 transition"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" /><p>React</p></div>
+        <div class="hover:scale-110 transition"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" /><p>Node.js</p></div>
+        <div class="hover:scale-110 transition"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="40" /><p>NestJS</p></div>
+        <div class="hover:scale-110 transition"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" /><p>Docker</p></div>
+        <div class="hover:scale-110 transition"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" /><p>Kubernetes</p></div>
+        <div class="hover:scale-110 transition"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" /><p>MongoDB</p></div>
+        <div class="hover:scale-110 transition"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" /><p>PostgreSQL</p></div>
+        <div class="hover:scale-110 transition"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" /><p>Git</p></div>
+        <div class="hover:scale-110 transition"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" /><p>Bash</p></div>
+        <div class="hover:scale-110 transition"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" /><p>Linux</p></div>
+      </div>
+    </div>
+
+    <div class="mt-20 animate-fade-in">
+      <lottie-player src="https://assets7.lottiefiles.com/packages/lf20_tno6cg2w.json" background="transparent" speed="1" style="width: 300px; height: 300px;" loop autoplay></lottie-player>
+    </div>
+  </section>
+
+  <style>
+    @keyframes fade-in {
+      0% { opacity: 0; transform: translateY(20px); }
+      100% { opacity: 1; transform: translateY(0); }
+    }
+    .animate-fade-in {
+      animation: fade-in 1s ease-out;
+    }
+    .animate-fade-up {
+      animation: fade-in 1.2s ease-out;
+    }
+    .delay-200 {
+      animation-delay: 0.2s;
+    }
+  </style>
+</body>
+
+</html>
