@@ -5,78 +5,77 @@
   </a>
 </div>
 
-<h1 align="center">Bonjour 👋, je suis Aboubacar Diallo</h1>
-<p align="center"><strong>Développeur Full-Stack JavaScript (React / Node)</strong></p>
-<p align="center">Passionné par la tech et l’impact social 🌍</p>
+# 👋 Bonjour, je suis Aboubacar Diallo
+
+### 🧑‍💻 Développeur Full-Stack & DevOps  
+**Passionné par la tech, la cybersécurité et l’impact social 🌍**
 
 ---
 
-### 🚀 À propos
+## 🚀 À propos
 
-Passionné par le web et les nouvelles technologies, je suis actuellement développeur web et mobile full-stack.  
-J’ai travaillé sur plusieurs projets ambitieux tout en continuant à apprendre constamment.  
+Développeur JavaScript (React / Node.js) avec une forte appétence pour l’automatisation, la sécurité et l’infrastructure.  
+Je conçois, déploie et maintiens des applications web & mobiles **performantes et robustes**.  
 
-**Qualités :**
+### 💡 Soft Skills
 
-- ✅ Rigoureux
-- ✅ Organisé
-- ✅ Esprit d'équipe
-- ✅ Apprentissage rapide
-- ✅ Motivé
+- ✅ Rigoureux & organisé  
+- ✅ Apprentissage rapide  
+- ✅ Esprit d'équipe  
+- ✅ Curieux & passionné par les bonnes pratiques DevOps  
+- ✅ Motivé par les défis techniques et humains
 
 ---
 
-### 🛠️ Technologies
+## 🛠️ Compétences Techniques
 
-#### 🧠 Basiques
+### 💻 Développement
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-![Sass](https://img.shields.io/badge/-Sass-black?style=flat-square&logo=sass)
-
-#### 🎨 Frontend
-
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
 ![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=vue.js)
 ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-black?style=flat-square&logo=nuxt.js)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
-
-#### 🧰 Backend
-
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![NestJS](https://img.shields.io/badge/-NestJS-black?style=flat-square&logo=nestjs)
 ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
+
+### 🗃️ Bases de données
+
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 
-#### 🐳 DevOps
+### ⚙️ DevOps & Cloud
 
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=kubernetes)
+![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws)
+![Ansible](https://img.shields.io/badge/-Ansible-black?style=flat-square&logo=ansible)
+![Terraform](https://img.shields.io/badge/-Terraform-black?style=flat-square&logo=terraform)
+![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=flat-square&logo=jenkins)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-black?style=flat-square&logo=github-actions)
+![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
+![Bash](https://img.shields.io/badge/-Bash-black?style=flat-square&logo=gnu-bash)
 
-#### ⚙️ Autres outils
+### 🧰 Autres outils
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![VSCode](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visual-studio-code)
-![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
-![Bash](https://img.shields.io/badge/-Bash-black?style=flat-square&logo=gnu-bash)
 ![Swagger](https://img.shields.io/badge/-Swagger-black?style=flat-square&logo=swagger)
 ![ESLint](https://img.shields.io/badge/-ESLint-black?style=flat-square&logo=eslint)
 ![Jest](https://img.shields.io/badge/-Jest-black?style=flat-square&logo=jest)
 
 ---
 
-### 📸 Image de couverture
+## 📸 Image de couverture
 
-<img src="https://media.licdn.com/dms/image/v2/D4E16AQGOw4VIB-Zaiw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1683841221444?e=1738195200&v=beta&t=H3LHWAqIjLdKoitSjDu-uJRzNPBFfQeMdKmteCr5kOk" width="100%"/>
+![cover](https://media.licdn.com/dms/image/v2/D4E16AQGOw4VIB-Zaiw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1683841221444?e=1738195200&v=beta&t=H3LHWAqIjLdKoitSjDu-uJRzNPBFfQeMdKmteCr5kOk)
 
 ---
 
 ✨ Merci d’avoir lu jusqu’ici !  
-🧡 Let’s build something awesome together.
-
+🧡 **Let’s build something awesome together.**
