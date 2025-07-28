@@ -1,33 +1,32 @@
-<div align="right">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
-  <a href="https://www.linkedin.com/in/adiallo3012/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Aboubacar%20Diallo-blue?logo=LinkedIn&logoColor=white&labelColor=0a66c2">
-  </a>
+<div align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80"/>
 </div>
 
-# 👋 Bonjour, je suis Aboubacar Diallo
+<h1 align="center">Bonjour 👋, je suis Aboubacar Diallo</h1>
+<p align="center"><strong>Développeur Full-Stack & DevOps</strong></p>
+<p align="center">💻 Passionné de tech, 🛡️ engagé pour la sécurité, 🌍 motivé par l’impact social</p>
 
-### 🧑‍💻 Développeur Full-Stack & DevOps  
-**Passionné par la tech, la cybersécurité et l’impact social 🌍**
+<p align="center">
+  <a href="https://www.linkedin.com/in/adiallo3012/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Aboubacar%20Diallo-blue?logo=linkedin&style=flat-square" />
+  </a>
+  <a href="https://github.com/aboubacar3012" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-aboubacar3012-black?logo=github&style=flat-square" />
+  </a>
+</p>
 
 ---
 
 ## 🚀 À propos
 
-Développeur JavaScript (React / Node.js) avec une forte appétence pour l’automatisation, la sécurité et l’infrastructure.  
-Je conçois, déploie et maintiens des applications web & mobiles **performantes et robustes**.  
+Je suis un développeur full-stack **JavaScript (React / Node.js)** qui évolue aujourd’hui aussi en tant que **DevOps Engineer**.  
+Je conçois des applications performantes et scalables, que je déploie avec des outils modernes (CI/CD, conteneurs, cloud…).
 
-### 💡 Soft Skills
-
-- ✅ Rigoureux & organisé  
-- ✅ Apprentissage rapide  
-- ✅ Esprit d'équipe  
-- ✅ Curieux & passionné par les bonnes pratiques DevOps  
-- ✅ Motivé par les défis techniques et humains
+> 🔐 **Sécurité, fiabilité et automatisation** sont au cœur de ma démarche.
 
 ---
 
-## 🛠️ Compétences Techniques
+## 🛠️ Stack & Outils
 
 ### 💻 Développement
 
@@ -35,9 +34,6 @@ Je conçois, déploie et maintiens des applications web & mobiles **performantes
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
-![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux)
-![Vue.js](https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=vue.js)
-![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-black?style=flat-square&logo=nuxt.js)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![NestJS](https://img.shields.io/badge/-NestJS-black?style=flat-square&logo=nestjs)
 ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
@@ -63,11 +59,20 @@ Je conçois, déploie et maintiens des applications web & mobiles **performantes
 ### 🧰 Autres outils
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![VSCode](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visual-studio-code)
 ![Swagger](https://img.shields.io/badge/-Swagger-black?style=flat-square&logo=swagger)
 ![ESLint](https://img.shields.io/badge/-ESLint-black?style=flat-square&logo=eslint)
 ![Jest](https://img.shields.io/badge/-Jest-black?style=flat-square&logo=jest)
+
+---
+
+## 🧠 Soft Skills
+
+- ✅ Organisation & rigueur
+- ✅ Apprentissage rapide
+- ✅ Sens du travail en équipe
+- ✅ Communication claire
+- ✅ Culture sécurité by design
 
 ---
 
@@ -77,5 +82,6 @@ Je conçois, déploie et maintiens des applications web & mobiles **performantes
 
 ---
 
-✨ Merci d’avoir lu jusqu’ici !  
-🧡 **Let’s build something awesome together.**
+## ✨ Merci d’être passé !  
+**📬 Contacte-moi pour collaborer sur ton prochain projet.**  
+
